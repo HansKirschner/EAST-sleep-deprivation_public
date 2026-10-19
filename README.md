@@ -1,6 +1,6 @@
 # EAST sleep deprivation study
 
-Data and code accompanying **“Sleep deprivation disrupts error awareness and subsequent behavioural regulation.”** The study compares well-rested (WR) and total sleep-deprivation (TSD) conditions in 30 participants.
+Data and code accompanying **“Sleep deprivation disrupts error awareness and subsequent behavioural regulation.”**
 
 ## Contents
 
